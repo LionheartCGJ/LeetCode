@@ -1,4 +1,4 @@
-package com.cgj.leet.code.explore.april.week1_1;
+package com.cgj.leet.code.explore.april.week1_1_singleNumber;
 
 /**
  * Single Number
